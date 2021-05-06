@@ -1,3 +1,4 @@
+require("dotenv").config();
 console.log("index here");
 
 const express = require("express");
